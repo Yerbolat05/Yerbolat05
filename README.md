@@ -14,3 +14,5 @@
 [![YouTube](https://img.shields.io/badge/YouTube-020202?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC6vztePc4kjQCbEykh1Jy-g)
 [![Instagram](https://img.shields.io/badge/Instagram-020202?style=for-the-badge&logo=Instagram&logoColor=EF008B)](https://www.instagram.com/codejazu/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-020202?style=for-the-badge&logo=Whatsapp&logoColor=41E25E)](https://api.whatsapp.com/send/?phone=%2B77765372121&text&type=phone_number&app_absent=0)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerbolat05&show_icons=true&theme=radical)
