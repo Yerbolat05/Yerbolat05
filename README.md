@@ -1,6 +1,6 @@
 [![Header](https://github.com/Yerbolat05/yerbolat05/blob/master/assets/overlay.jpg)](https://www.youtube.com/channel/UC6vztePc4kjQCbEykh1Jy-g)
 
-About me
+## Hello my name is Yerbolat. I'm a beginner Software Engineer 
 
 Latest YouTube Videos
 
