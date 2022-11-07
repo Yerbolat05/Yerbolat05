@@ -2,8 +2,6 @@
 
 ## Hello my name is Yerbolat. I'm a beginner Software Engineer 
 
-Latest YouTube Videos
-
 ### Languages And Tools
 ![Python](https://img.shields.io/badge/Python-020202?style=for-the-badge&logo=python&logoColor=316A9A)
 ![Django](https://img.shields.io/badge/Django-020202?style=for-the-badge&logo=django&logoColor=092C1E)
