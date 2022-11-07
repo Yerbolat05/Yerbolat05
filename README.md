@@ -4,6 +4,12 @@
 
 Latest YouTube Videos
 
-Languages And Tools
+### Languages And Tools
+![Python](https://img.shields.io/badge/Python-020202?style=for-the-badge&logo=python&logoColor=316A9A)
+![Django](https://img.shields.io/badge/Django-020202?style=for-the-badge&logo=django&logoColor=092C1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-020202?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-020202?style=for-the-badge&logo=html5&logoColor=E56027)
+![CSS](https://img.shields.io/badge/CSS-020202?style=for-the-badge&logo=css3&logoColor=0096DC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020202?style=for-the-badge&logo=PostgreSQL&logoColor=31648C)
 
 Follow me
