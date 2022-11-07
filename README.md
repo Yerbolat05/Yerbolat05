@@ -1,16 +1,16 @@
-### Hi there 👋
+[![Header](https://github.com/Yerbolat05/yerbolat05/blob/master/assets/overlay.jpg)](https://www.youtube.com/channel/UC6vztePc4kjQCbEykh1Jy-g)
 
-<!--
-**Yerbolat05/yerbolat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello my name is Yerbolat. I'm a beginner Software Engineer 
 
-Here are some ideas to get you started:
+### Languages And Tools
+![Python](https://img.shields.io/badge/Python-020202?style=for-the-badge&logo=python&logoColor=316A9A)
+![Django](https://img.shields.io/badge/Django-020202?style=for-the-badge&logo=django&logoColor=092C1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-020202?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-020202?style=for-the-badge&logo=html5&logoColor=E56027)
+![CSS](https://img.shields.io/badge/CSS-020202?style=for-the-badge&logo=css3&logoColor=0096DC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020202?style=for-the-badge&logo=PostgreSQL&logoColor=31648C)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
+[![YouTube](https://img.shields.io/badge/YouTube-020202?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UC6vztePc4kjQCbEykh1Jy-g)
+[![Instagram](https://img.shields.io/badge/Instagram-020202?style=for-the-badge&logo=Instagram&logoColor=EF008B)](https://www.instagram.com/codejazu/)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-020202?style=for-the-badge&logo=Whatsapp&logoColor=41E25E)](https://api.whatsapp.com/send/?phone=%2B77765372121&text&type=phone_number&app_absent=0)
